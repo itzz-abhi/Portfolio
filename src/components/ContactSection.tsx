@@ -13,7 +13,7 @@ import emailjs from "@emailjs/browser";
 // 4. Go to Account → API Keys → copy your PUBLIC_KEY
 // 5. Replace the 3 constants below with your real values
 // =====================================================
-const EMAILJS_SERVICE_ID = "service_vjjlhou";
+const EMAILJS_SERVICE_ID = "service_82giohi";
 const EMAILJS_TEMPLATE_ID = "template_5ofrsid";
 const EMAILJS_PUBLIC_KEY = "NIW9V4ML0Pb0SlVlW";
 
