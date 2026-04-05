@@ -14,11 +14,6 @@ const services = [
     description: "Designing robust APIs, databases, and server infrastructure for scalable applications.",
   },
   {
-    icon: Smartphone,
-    title: "Mobile Development",
-    description: "Cross-platform mobile apps with native performance using React Native.",
-  },
-  {
     icon: Code2,
     title: "Technical Consulting",
     description: "Architecture reviews, performance optimization, and technology strategy guidance.",
