@@ -46,7 +46,7 @@ const AboutSection = () => {
             <p>
               Enthusiastic Software Developer with hands-on experience building real-time
               and responsive web applications. Currently pursuing my Master of Computer
-              Application at JSS Academy of Technical Education, Noida (CGPA 8.11).
+              Application at JSS Academy of Technical Education, Noida.
             </p>
             <p>
               I'm adept at problem-solving and thrive in collaborative team environments.
